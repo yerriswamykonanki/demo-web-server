@@ -1,0 +1,7 @@
+name 'crux'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures crux'
+long_description 'Installs/Configures crux'
+version '0.1.0'
